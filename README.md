@@ -22,5 +22,5 @@ The programming language used is **Python**, which is installed on my system and
 * [YouTube Python Tutorials](https://www.youtube.com/results?search_query=python+beginner+tutorial) – Helpful for understanding Python basics and coding examples
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](https://byui-cse.github.io/cse310-ww-course/week01/activity_portfolio.html)
-* [Web Site Name](https://www.python.org/downloads/)
+* [BYU I Learn Material](https://byui-cse.github.io/cse310-ww-course/week01/activity_portfolio.html)
+* [Python.org](https://www.python.org/downloads/)
